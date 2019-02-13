@@ -1,0 +1,11 @@
+{
+  "name": "@masonite/coding-standards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Masonite",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.10.5"
+  }
+}

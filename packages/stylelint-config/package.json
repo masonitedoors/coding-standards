@@ -1,0 +1,19 @@
+{
+  "name": "@masonite/stylelint-config",
+  "version": "0.0.7",
+  "description": "Masonite's stylelint config, following our styleguide",
+  "main": "index.js",
+  "author": "Masonite",
+  "license": "MIT",
+  "peerDependencies": {
+    "stylelint": "^8.3.0 || ^9.0.0",
+    "stylelint-config-recommended": "^2.1.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "e35d2083828a12027fdd4813588cb7e167f99014"
+}

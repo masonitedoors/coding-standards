@@ -1,0 +1,23 @@
+{
+  "name": "@masonite/eslint-config-base",
+  "version": "0.0.10",
+  "description": "Masonite's base ESLint config, following our styleguide",
+  "main": "index.js",
+  "author": "Masonite",
+  "license": "MIT",
+  "dependencies": {
+    "confusing-browser-globals": "^1.0.5"
+  },
+  "peerDependencies": {
+    "eslint": "5.x",
+    "eslint-plugin-import": "2.x"
+  },
+  "files": [
+    "index.js",
+    "rules/"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "e35d2083828a12027fdd4813588cb7e167f99014"
+}
