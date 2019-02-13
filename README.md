@@ -1,8 +1,8 @@
-# Masonite Coding Standards
+# Coding Standards
 
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lernajs.io/)
 
-[ESLint](https://eslint.org/) & [stylelint](https://stylelint.io/) configs.
+Masonite's [ESLint](https://eslint.org/) & [stylelint](https://stylelint.io/) configs.
 
 ## Usage
 
