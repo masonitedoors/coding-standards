@@ -1,12 +1,12 @@
 {
   "name": "@masonite/eslint-config",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Masonite's ESLint config, following our styleguide",
   "main": "index.js",
   "author": "Masonite",
   "license": "MIT",
   "dependencies": {
-    "@masonite/eslint-config-base": "^0.0.10"
+    "@masonite/eslint-config-base": "^0.0.11"
   },
   "peerDependencies": {
     "babel-eslint": "9.x",

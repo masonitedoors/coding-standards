@@ -1,6 +1,6 @@
 {
   "name": "@masonite/eslint-config-base",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Masonite's base ESLint config, following our styleguide",
   "main": "index.js",
   "author": "Masonite",
